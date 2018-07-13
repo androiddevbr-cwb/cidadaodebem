@@ -1,5 +1,12 @@
-# cidadaodebem
+# Cidadao de Bem
 
+Essa ideia partiu desse link:
+http://ideias.rioapps.com.br/ideias/822
+
+Ideia:
+Eu gostaria de um aplicativo que através de um mapa, permitisse a visualização dos projetos sociais ativos na cidade de Curitiba. Alimentado também pelos próprios projetos, o app disponibilizaria informações sobre as ONGs, como público atendido, serviços oferecidos e necessidades. Facilitando desse modo a interação entre os projetos e o conhecimento, por parte dos cidadãos, da dimensão do serviço social na cidade.
+
+-->Fetures:
 - Login
 - Cadastro Usuário 
 - Cadastro Organização
