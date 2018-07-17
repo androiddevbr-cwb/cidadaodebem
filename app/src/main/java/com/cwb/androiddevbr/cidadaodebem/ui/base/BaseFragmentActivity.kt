@@ -1,8 +1,8 @@
 package com.cwb.androiddevbr.cidadaodebem.ui.base
 
-import android.support.v4.app.FragmentTransaction
-import android.support.v7.widget.Toolbar
 import android.widget.FrameLayout
+import androidx.appcompat.widget.Toolbar
+import androidx.fragment.app.FragmentTransaction
 
 abstract class BaseFragmentActivity: BaseActivity(){
 

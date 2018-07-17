@@ -1,7 +1,7 @@
 package com.cwb.androiddevbr.cidadaodebem.app
 
 import android.app.Application
-import android.support.v7.app.AppCompatDelegate
+import androidx.appcompat.app.AppCompatDelegate
 import org.koin.android.ext.android.startKoin
 
 class App :Application(){
