@@ -1,5 +1,6 @@
 package com.cwb.androiddevbr.cidadaodebem.ui.base
 
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.ViewModel
 
-open class BaseViewModel :ViewModel()
+
+open class BaseViewModel : ViewModel()
