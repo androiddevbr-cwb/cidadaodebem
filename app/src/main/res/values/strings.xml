@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Cidadao de Bem</string>
+    <string name="search">Procurar</string>
+    <string name="my_groups">Meus Grupos</string>
 </resources>
